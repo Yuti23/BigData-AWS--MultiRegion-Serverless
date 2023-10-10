@@ -1,14 +1,11 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+# Hey there! Welcome to our Multi-Region application hosted on AWS Cloud9
 
+ 
+## About This Project
 
-Hi there! Welcome to AWS Cloud9!
+This is an exciting project hosted on AWS Cloud9 and available on GitHub. It demonstates how a multi-region (Singapore and Ireland in our case) can be hosted on AWS Cloud9.
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+## Getting Started
 
-Happy coding!
+To get started, follow these the official documentation:
+‎https://docs.aws.amazon.com/cloud9/latest/user-guide/welcome.html
